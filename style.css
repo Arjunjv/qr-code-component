@@ -1,0 +1,40 @@
+
+    body{
+	background-color:hsl(212, 45%, 89%);
+	font-family: 'Outfit', sans-serif;
+	font-size:15px;
+    }
+
+    img{
+	width:250px;
+	height:260px;
+	border-radius:15px;
+    }
+
+    #heading{
+	font-weight:700;
+	font-size:20px;
+    }
+
+    #desc{
+	color:hsl(220, 15%, 55%);
+    }
+
+    #container{
+	background-color:hsl(0, 0%, 100%);
+	padding:10px;
+	border-radius:15px;
+	width:250px;
+	text-align:center;
+	margin:auto;
+	margin-top:85px;
+    }
+
+    .attribution{
+	 font-size: 11px;
+    	 text-align: center;
+    }	
+    .attribution a {
+    color: hsl(228, 45%, 44%);
+    }
+	
